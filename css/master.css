@@ -21,7 +21,7 @@
 
 .name-tagline {
   position: absolute;
-  top: 20vh;
+  top: 30vh;
   left: 50%;
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
