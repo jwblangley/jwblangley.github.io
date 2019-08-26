@@ -6,4 +6,5 @@ $(document).ready(function() {
 
 function playIntro() {
   $('.name-tagline').hide().delay(2 * ANIM_DELTA).fadeIn(ANIM_DELTA);
+  $('.social-icons').hide().delay(3 * ANIM_DELTA).fadeIn(ANIM_DELTA);
 }
