@@ -14,6 +14,7 @@
 html body {
   width: 100%;
   height: 100%;
+  background-color: var(--color-gray-dark);
 }
 
 .video-intro {
@@ -27,6 +28,7 @@ html body {
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
+  background-color: var(--color-gray-dark);
 }
 
 @media (min-aspect-ratio: 16/9) {
