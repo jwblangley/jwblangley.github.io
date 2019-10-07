@@ -76,6 +76,10 @@ html body {
   padding: 1vmin;
 }
 
+.social-icon :hover {
+  transform: scale(1.1);
+}
+
 .social-icon img {
   width: 3em;
   border-radius: 50%;
